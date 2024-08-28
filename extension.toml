@@ -1,0 +1,12 @@
+id = "cargo-tom"
+name = "CargoTom"
+version = "0.4.1"
+schema_version = 1
+authors = ["frederik <termite_pilgrim04@icloud.com>"]
+description = "Cargo.toml crate/version/features suggestions(offline mode enabled by default) & other usefull Cargo.toml features"
+repository = "https://github.com/frederik-uni/zed-cargotom"
+
+[language_servers.cargotom]
+name = "CargoTom"
+language = "TOML"
+languages = ["TOML", "Rust"]
