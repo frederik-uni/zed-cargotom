@@ -6,7 +6,7 @@ authors = ["frederik <termite_pilgrim04@icloud.com>"]
 description = "Cargo.toml crate/version/features suggestions(offline mode enabled by default) & other usefull Cargo.toml features"
 repository = "https://github.com/frederik-uni/zed-cargotom"
 
-[language_servers.cargotom]
+[language_servers.cargo-tom]
 name = "CargoTom"
 language = "TOML"
 languages = ["TOML", "Rust"]
